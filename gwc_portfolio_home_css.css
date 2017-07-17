@@ -1,0 +1,20 @@
+body {
+  background-color: #ffffcc;
+}
+h1 {
+  height: auto;
+  width: 50%;
+  border: 5px solid white;
+  border-radius: 5px;
+  outline-style: solid;
+  outline-color: #ffccff;
+  outline-width: thick;
+  text-align:center;
+  background-color: white;
+}
+p1, p2, p3, p4{
+  text-decoration: underline;
+}
+p1, p2, p3, p4 {
+    padding: 50px 30px 50px 80px;
+}
